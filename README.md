@@ -8,5 +8,5 @@ Check out some of my public repositories here, or head to [my portfolio website]
 ### Get in touch with me:
 
 * Email: [alex@karren.com](alex@karren.com)
-* [Portfolio Website](https://alexanderkarren.com)
+* [Portfolio](https://alexanderkarren.com)
 * [LinkedIn](https://www.linkedin.com/in/alexander-karren/)
