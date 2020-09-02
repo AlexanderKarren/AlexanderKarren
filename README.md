@@ -10,3 +10,5 @@ Check out some of my public repositories here, or head to [my portfolio website]
 * Email: [alex@karren.com](alex@karren.com)
 * [Portfolio](https://alexanderkarren.com)
 * [LinkedIn](https://www.linkedin.com/in/alexander-karren/)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlexanderKarren)](https://github.com/anuraghazra/github-readme-stats)
