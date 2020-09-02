@@ -11,5 +11,10 @@ Check out some of my public repositories here, or head to [my portfolio website]
 * [Portfolio](https://alexanderkarren.com)
 * [LinkedIn](https://www.linkedin.com/in/alexander-karren/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlexanderKarren)](https://github.com/anuraghazra/github-readme-stats)
+### Top Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderKarren)](https://github.com/anuraghazra/github-readme-stats)
+
+### Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlexanderKarren)](https://github.com/anuraghazra/github-readme-stats)
