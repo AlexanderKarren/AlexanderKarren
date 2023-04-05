@@ -7,7 +7,7 @@ Check out some of my public repositories here, or head to [my portfolio website]
 
 ### Get in touch with me:
 
-* Email: [zithers-02.systole@icloud.com](zithers-02.systole@icloud.com)
+* [Email](mailto:zithers-02.systole@icloud.com)
 * [Portfolio](https://alexanderkarren.com)
 * [LinkedIn](https://www.linkedin.com/in/alexander-karren/)
 
